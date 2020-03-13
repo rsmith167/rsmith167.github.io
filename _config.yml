@@ -1,11 +1,11 @@
 # Site settings
-author: Rwanda S
-title: 
+author: Rwanda Smith
+title: Insert Clever Computer Pun
 header-img: img/home-bg.png
 email: rwanda.ace@gmail.com
-copyright_name: Rwanda S
+copyright_name: Rwanda Smith
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Flatiron Blog for 2020 Part Time Online Software Engineering
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  rsmith167
